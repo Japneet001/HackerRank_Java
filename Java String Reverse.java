@@ -9,7 +9,7 @@ A will consist at most 50 lower case english letters. */
 import java.io.*;
 import java.util.*;
 
-class Solution {
+public class Solution {
 
     public static void main(String[] args) {
 
