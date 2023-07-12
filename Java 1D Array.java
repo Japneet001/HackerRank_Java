@@ -31,9 +31,10 @@
 * Output Format
 
 * You are not responsible for printing any output to stdout. Locked code in the editor loops through array  and prints each sequential element on a new line. */
+
 import java.util.*;
 
-public class Solution{
+class Solution{
 
     public static void main(String[] args) {
 	   
